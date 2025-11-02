@@ -28,4 +28,4 @@ except FileNotFoundError:
 except Exception as e:
     print("Something went wrong:", e)
 
-#Didn't use command line argument , since in my IDE I wasn't able to run the code
+#Didn't use command line argument , since in my IDE I wasn't able to run the code using it
